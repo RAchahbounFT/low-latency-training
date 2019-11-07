@@ -1,3 +1,5 @@
 #include <iostream>
 
-int main(int, char **) { std::cout << "Hello, world" << std::endl;}
+typedef void Void;
+
+int main(int, char **) { std::cout << "Hello, world" << std::endl; }
